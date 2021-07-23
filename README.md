@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @efrem1
 - 👀 I’m interested in react-native
-- 🌱 I’m currently learning react-native
 - 💞️ I’m looking to collaborate on react-native project
 - 📫 How to reach me magagaefrem@gmail.com
 
